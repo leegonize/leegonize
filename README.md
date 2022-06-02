@@ -1,16 +1,12 @@
-### Hi there 👋
+### hello! my name is kayla a.k.a leegonize and:
 
-<!--
-**leegonize/leegonize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 i’m currently working on creating discord bots and finishing school!
+- 🌱 i’m currently learning python and soon enough, javascript!
+- 👯 i’m looking to collaborate on indie games when i'm more advance in my coding skills
+- 🤔 i’m looking for help with calculus... it is not my strongest subject!
+- 💬 ask me about jojo's bizzare adventure; i'm big on anime
+- 📫 how to reach me: kayla@10ronline.com or leegonize#5796 on discord!
+- 😄 pronouns: she/they
+- ⚡ fun fact: i love playing video games, mainly league of legends right now
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+thanks for reading!
