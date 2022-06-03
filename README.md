@@ -8,4 +8,6 @@
 - 📫 how to reach me: kayla@10ronline.com or leegonize#5796 on discord!
 - ⚡ fun fact: i love playing video games, mainly league of legends right now
 
+![braum banner](https://user-images.githubusercontent.com/44735754/171883024-6b413fac-b0c1-4372-a28a-06a64c4258cd.gif)
+
 thanks for reading!
