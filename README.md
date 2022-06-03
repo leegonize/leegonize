@@ -6,7 +6,6 @@
 - 🤔 i’m looking for help with calculus... it is not my strongest subject!
 - 💬 ask me about jojo's bizzare adventure; i'm big on anime
 - 📫 how to reach me: kayla@10ronline.com or leegonize#5796 on discord!
-- 😄 pronouns: she/they
 - ⚡ fun fact: i love playing video games, mainly league of legends right now
 
 thanks for reading!
